@@ -2,7 +2,6 @@
 ### I post about my notes and studies regarding concepts in the field of hacking and vulnerabilities.
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguelgsd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelgsd&stats_format=bytes)
 
 ### Learning:
 <div style="display: inline_block"><br/>
