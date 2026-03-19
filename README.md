@@ -27,4 +27,4 @@
 
 
 
-### I'm open to suggestions and tips.
+### *"Grant me, O Lord my God, a mind to know you, a heart to seek you, wisdom to find you, conduct pleasing to you, faithful perseverance in waiting for you, and a hope of finally embracing you. Amen.*"
