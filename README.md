@@ -9,8 +9,8 @@
 
 **My two main projects:**
 
-1- ![Web Pentesting Blog](https://miguelgsd.github.io/web-hacking/)  
-2- ![Android Pentesting Blog](https://miguelgsd.github.io/android-pentest-blog/)
+1- [Web Pentesting Blog](https://miguelgsd.github.io/web-hacking/)  
+2- [Android Pentesting Blog](https://miguelgsd.github.io/android-pentest-blog/)
 
 ### My Stats:
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguelgsd&show_icons=true&theme=radical)
